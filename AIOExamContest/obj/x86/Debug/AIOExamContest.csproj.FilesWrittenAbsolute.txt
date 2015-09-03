@@ -1,0 +1,5 @@
+/Users/Jackie/Projects/C# Projects/AIOExamContest/AIOExamContest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Jackie/Projects/C# Projects/AIOExamContest/AIOExamContest/bin/Debug/AIOExamContest.exe.mdb
+/Users/Jackie/Projects/C# Projects/AIOExamContest/AIOExamContest/bin/Debug/AIOExamContest.exe
+/Users/Jackie/Projects/C# Projects/AIOExamContest/AIOExamContest/obj/x86/Debug/AIOExamContest.exe
+/Users/Jackie/Projects/C# Projects/AIOExamContest/AIOExamContest/obj/x86/Debug/AIOExamContest.exe.mdb

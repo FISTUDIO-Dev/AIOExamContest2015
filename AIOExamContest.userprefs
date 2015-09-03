@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="AIOExamContest/AIOExamContest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AIOExamContest/Program.cs">
+    <Files>
+      <File FileName="AIOExamContest/wetchairs.cs" Line="61" Column="34" />
+      <File FileName="AIOExamContest/ruckus.cs" Line="58" Column="38" />
+      <File FileName="AIOExamContest/binary.cs" Line="37" Column="30" />
+      <File FileName="AIOExamContest/Program.cs" Line="128" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
